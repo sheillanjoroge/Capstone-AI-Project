@@ -1,0 +1,14 @@
+﻿using System;
+
+namespace MoringaToolkit
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, Moringa AI Toolkit!");
+            Console.WriteLine("Press any key to exit...");
+            Console.ReadKey();
+        }
+    }
+}
